@@ -7,8 +7,7 @@ In order to output something in C#, we can use<br/>
 ## Difference between WriteLine() and Write() method
 The main difference between WriteLine() and Write() is that the Write() method only prints the data provided to it, while the WriteLine() method prints the data and moves to the start of next line as well.
 
-**Let's see how they actually work in practical**
-1. Printing a string using ```Console.WriteLine()```
+**1. Printing a string using ```Console.WriteLine()```**
         
         using System;
  
@@ -28,7 +27,7 @@ The output will be:
 	Hello World!
 	Welcome to my C# journey ...
 	
-2. Printing a string using ```Console.Write()```
+**2. Printing a string using ```Console.Write()```**
 
 	   using system;
 	   namespace sample
@@ -47,7 +46,7 @@ The output will be:
 
 	Prints on Same line
 	
-3.  Printing Variables and Literals
+**3. Printing Variables and Literals**
 		
 		using System;
  
@@ -71,3 +70,7 @@ The output will be:
 
 	10
 	50.05
+	
+**4. Combining (Concatenating) two strings using ```+``` operator and printing them**
+
+	
