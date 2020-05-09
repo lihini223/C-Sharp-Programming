@@ -29,3 +29,17 @@ The output will be like this:
 	Welcome to my C# journey ...
 	
 2. Printing a string using ```Console.Write()```
+
+	   using system;
+	   namespace sample
+	   {
+	   	class test
+		{
+			public static void Main(string[] args)
+			{
+				Console.Write("Prints on ");
+				Console.Write("Same line");
+			}
+		 }
+	   }
+	   
