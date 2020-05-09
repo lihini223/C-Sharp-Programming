@@ -28,3 +28,4 @@ The output will be like this:
 	Hello World!
 	Welcome to my C# journey ...
 	
+2. Printing a string using ```Console.Write()```
