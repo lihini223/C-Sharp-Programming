@@ -9,3 +9,17 @@ The main difference between WriteLine() and Write() is that the Write() method o
 
 **Let's see how they actually work in practical**
 1. Printing a string using ```Console.WriteLine()```
+        
+        using System;
+ 
+        namespace Sample
+        {
+	          class Test
+	          {
+		            public static void Main(string[] args)
+		            {
+			              Console.WriteLine("Hello World!");
+                             Console.WriteLine("Welcome to my C# journey ..."); 
+		            }
+	           }
+         }
