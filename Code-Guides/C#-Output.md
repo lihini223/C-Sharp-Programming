@@ -46,3 +46,5 @@ The output will be like:
 The output will be like:
 
 	Prints on Same line
+	
+3.  Printing Variables and Literals
