@@ -23,3 +23,8 @@ The main difference between WriteLine() and Write() is that the Write() method o
 		            }
 	           }
          }
+The output will be like this:
+
+	Hello World!
+	Welcome to my C# journey ...
+	
