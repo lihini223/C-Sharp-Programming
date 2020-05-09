@@ -110,3 +110,5 @@ The output will be:
 			}
 		}
 
+Here you can see something like ```{0}``` , ```{1}``` and ```{2}``` in the ```Console.WriteLine()``` function. These elements are called as formatted string. This approach of printing output is more readable and less error prone than using + operator. 
+In the ```Console.WriteLine()``` function, after the quoted text we have indicated the variables which should be printed in the console. Imagine you have mistakenly indicated the variables in the in a wrong order. In this method you can easily fix the issue with giving the right index of variable inside ```{ }```. Here the ```firstNumber```,```secondNumber```,```result``` are considered as an array. Because of that ```{0}``` represents firstNumber , ```{1}``` represents ```secondNumber``` and ```{2}``` represents ```result``` respectively.
