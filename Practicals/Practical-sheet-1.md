@@ -19,7 +19,10 @@ Write a Console Application Program to get Student Name and Student Marks. If st
                 Console.Write("Enter Your Name:");
                 name = Console.ReadLine();
 
+                Console.Write("Enter Marks:");
+                mark = int.Parse(Console.ReadLine());
 
+            
 
                 Console.ReadKey();
              }
