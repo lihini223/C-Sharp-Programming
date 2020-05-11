@@ -74,3 +74,7 @@ Write a Console Application program to get two integer inputs from the user and 
                 {
                     int n1, n2, sum,substraction,multiplication;
                     double division;
+
+                    //getting input for n1
+                    Console.WriteLine("Enter number 1 : ");
+                    n1 = int.Parse(Console.ReadLine());
