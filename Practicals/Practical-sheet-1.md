@@ -88,3 +88,8 @@ Write a Console Application program to get two integer inputs from the user and 
                     substraction = n1 - n2 ;
                     multiplication = n1 * n2 ;
                     division = Convert.ToDouble(n1) / Convert.ToDouble(n2);
+
+                    Console.WriteLine("{0} + {1} = {2} ", n1,n2,sum);
+                    Console.WriteLine("{0} - {1} = {2} ", n1, n2, substraction);
+                    Console.WriteLine("{0} * {1} = {2} ", n1, n2, multiplication);
+                    Console.WriteLine("{0} / {1} = {2} ", n1, n2, division);
