@@ -78,3 +78,7 @@ Write a Console Application program to get two integer inputs from the user and 
                     //getting input for n1
                     Console.WriteLine("Enter number 1 : ");
                     n1 = int.Parse(Console.ReadLine());
+
+                    //getting input for n1
+                    Console.WriteLine("Enter number 2 : ");
+                    n2 = int.Parse(Console.ReadLine());
