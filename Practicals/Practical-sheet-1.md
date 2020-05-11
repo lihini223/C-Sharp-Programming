@@ -65,3 +65,12 @@ Write a Console Application program to get two integer inputs from the user and 
         using System.Linq;
         using System.Text;
         using System.Threading.Tasks;
+
+        namespace Arithmetic_Operations
+        {
+            class Program
+            {
+                static void Main(string[] args)
+                {
+                    int n1, n2, sum,substraction,multiplication;
+                    double division;
