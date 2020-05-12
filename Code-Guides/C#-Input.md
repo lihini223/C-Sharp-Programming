@@ -99,3 +99,10 @@ namespace UserInput
 	}
 }
 ```
+The output will be:
+```
+Enter integer value: 101
+You entered 101
+Enter double value: 59.412
+You entered 59.412
+```
