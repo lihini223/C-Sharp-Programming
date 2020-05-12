@@ -30,3 +30,10 @@ Figure - 01
     Enter Number 1: 25
     Enter Number 2: 2
     Your Answer is : 50
+
+Create the above mentioned console application and display it to the user. If user need to do an Addition user need to insert 1 as the choice. For subtraction it should be 2 etc.<br/>
+
+Your program should contain a separate class call “CalculateValues” and inside the class you should add four methods which perform four arithmetic operations. All the methods should take two parameters which are user inserted numbers. And at the end of the method return the answer out of the method.<br/>
+
+In main class if user want to do an addition call only the addition method in separate class. If user want to do a subtraction call only the subtraction method in separate class. Etc. <br/>
+And display the final answer as shown in the figure 01.
