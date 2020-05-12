@@ -2,6 +2,10 @@
 
 In C#, the simplest method to get input from the user is by using the ```ReadLine()``` method of the Console class. However, ```Read()``` and ```ReadKey()``` are also available for getting input from the user. They are also included in Console class.
 
+## Difference between ReadLine(), Read() and ReadKey() method:
+
+- ```ReadLine()```: The ```ReadLine()``` method reads the next line of input from the standard input stream. It returns the same string.
+
 ## 1. How to Get String Input From User
 
         using System;
