@@ -32,4 +32,26 @@ The output will be:
 		Enter a string - Hello World
 		You entered 'Hello World'
 		
-## 2. 
+## 2. Difference between Read() and ReadKey() method in practical 
+```
+using System;
+ 
+namespace Sample
+{
+	class Test
+	{
+		public static void Main(string[] args)
+		{
+			int userInput;
+
+			Console.WriteLine("Press any key to continue...");
+			Console.ReadKey();
+			Console.WriteLine();
+
+			Console.Write("Input using Read() - ");
+			userInput = Console.Read();
+			Console.WriteLine("Ascii Value = {0}",userInput);
+		}
+	}
+}
+```
