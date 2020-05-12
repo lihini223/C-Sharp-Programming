@@ -7,3 +7,6 @@ Create a C# Console application to covert user given Kilo Meter(Km) Value to Met
 
 **Task 2** <br/>
 Modify the same user defined method to method which accept a parameter value. That parameter value is the user given Km value. (No return type with parameter method). Display the answer by using the class object.
+
+**Task 3** <br/> 
+Modify the same user defined method to method which accept a parameter and return the answer at the end of the method. You should return the calculated Meter value at the end of the method. (With return type with parameter method). Display the answer by using class object.
