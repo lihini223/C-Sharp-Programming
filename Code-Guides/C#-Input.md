@@ -62,3 +62,7 @@ x
 Input using Read() - Learning C#
 Ascii Value = 76
 ```
+From this example, it must be clear how ```ReadKey()``` and ```Read()``` method works. While using ```ReadKey()```, as soon as the key is pressed, it is displayed on the screen.
+
+When ```Read()``` is used, it takes a whole line but only returns the ASCII value of first character. Hence, 76 (ASCII value of L) is printed.
+
