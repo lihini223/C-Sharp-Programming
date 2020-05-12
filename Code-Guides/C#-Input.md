@@ -66,3 +66,8 @@ From this example, it must be clear how ```ReadKey()``` and ```Read()``` method 
 
 When ```Read()``` is used, it takes a whole line but only returns the ASCII value of first character. Hence, 76 (ASCII value of L) is printed.
 
+## Reading numeric values (integer and floating point types)
+
+Reading numeric values can be slightly tricky in C#. We’ll still use the same ```ReadLine()``` method we used for getting string values. But since the ```ReadLine()``` method receives the input as string, it needs to be converted into integer or floating point type.
+
+One simple approach for converting our input is using the methods of Convert class.
