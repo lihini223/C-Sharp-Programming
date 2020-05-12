@@ -42,7 +42,7 @@ And display the final answer as shown in the figure 01.
 
 Add a separate class file to Console application program and create a method call ```private void sayHello( )```.
 
-Inside the method display hello world.<br/>
+Inside the method display ```hello world```.<br/>
 
-In main class create a class object and try to access the sayHello( ) method by using the class object.<br/>
+In main class create a class object and try to access the ```sayHello( )``` method by using the class object.<br/>
 Can you access the method? Explain why?
