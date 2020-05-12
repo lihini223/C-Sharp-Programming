@@ -2,7 +2,7 @@
 
 In C#, the simplest method to get input from the user is by using the ```ReadLine()``` method of the Console class. However, ```Read()``` and ```ReadKey()``` are also available for getting input from the user. They are also included in Console class.
 
-## How to Get String Input From User
+## 1. How to Get String Input From User
 
         using System;
  
@@ -20,3 +20,10 @@ In C#, the simplest method to get input from the user is by using the ```ReadLin
 		        }
 	        }
          }
+
+The output will be:
+
+		Enter a string - Hello World
+		You entered 'Hello World'
+		
+## 2. 
