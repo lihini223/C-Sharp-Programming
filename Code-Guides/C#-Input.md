@@ -106,3 +106,4 @@ You entered 101
 Enter double value: 59.412
 You entered 59.412
 ```
+The ```ToInt32()``` and ```ToDouble()``` method of Convert class converts the string input to integer and double type respectively. Similarly we can convert the input to other types.
