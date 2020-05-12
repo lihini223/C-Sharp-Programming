@@ -37,3 +37,12 @@ Your program should contain a separate class call “CalculateValues” and insi
 
 In main class if user want to do an addition call only the addition method in separate class. If user want to do a subtraction call only the subtraction method in separate class. Etc. <br/>
 And display the final answer as shown in the figure 01.
+
+## Question 04
+
+Add a separate class file to Console application program and create a method call ```private void sayHello( )```.
+
+Inside the method display hello world.<br/>
+
+In main class create a class object and try to access the sayHello( ) method by using the class object.<br/>
+Can you access the method? Explain why?
