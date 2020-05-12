@@ -71,3 +71,31 @@ When ```Read()``` is used, it takes a whole line but only returns the ASCII valu
 Reading numeric values can be slightly tricky in C#. We’ll still use the same ```ReadLine()``` method we used for getting string values. But since the ```ReadLine()``` method receives the input as string, it needs to be converted into integer or floating point type.
 
 One simple approach for converting our input is using the methods of Convert class.
+```
+using System;
+ 
+namespace UserInput
+{
+	class MyClass
+	{
+		public static void Main(string[] args)
+		{
+			string userInput;
+			int intVal;
+			double doubleVal;
+
+			Console.Write("Enter integer value: ");
+			userInput = Console.ReadLine();
+			/* Converts to integer type */
+			intVal = Convert.ToInt32(userInput);
+			Console.WriteLine("You entered {0}",intVal);
+
+			Console.Write("Enter double value: ");
+			userInput = Console.ReadLine();
+			/* Converts to double type */
+			doubleVal = Convert.ToDouble(userInput);
+			Console.WriteLine("You entered {0}",doubleVal);
+		}
+	}
+}
+```
