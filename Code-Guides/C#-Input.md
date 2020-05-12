@@ -6,6 +6,8 @@ In C#, the simplest method to get input from the user is by using the ```ReadLin
 
 - ```ReadLine()```: The ```ReadLine()``` method reads the next line of input from the standard input stream. It returns the same string.
 - ```Read()```: The ```Read()``` method reads the next character from the standard input stream. It returns the ASCII value of the character.
+- ```ReadKey()```: The ```ReadKey()``` method obtains the next key pressed by user. This method is usually used to hold the screen until user press a key.
+
 ## 1. How to Get String Input From User
 
         using System;
