@@ -55,3 +55,10 @@ namespace Sample
 	}
 }
 ```
+The output will be:
+```
+Press any key to continue...
+x
+Input using Read() - Learning C#
+Ascii Value = 76
+```
