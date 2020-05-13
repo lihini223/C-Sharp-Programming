@@ -34,3 +34,11 @@ Now print all the values inside the array.
 
 Declare two single dimensional array with the size given by the user and find , display
 the followings;
+
+- Scalar Sum (Adding values of each element of an array)
+- Vector Sum (Adding values of each relative elements of an array and store them
+in third array)
+- Vector Product (Multiply values of each relative elements of an array and store
+them in third array)
+- Scalar Product (Multiply values of each relative elements of an array and store
+them in third array. After placing the values in third array add all the values)
