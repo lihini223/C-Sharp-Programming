@@ -7,3 +7,5 @@ find the followings;
 2. Maximum value
 3. Average value
 4. Reverse order of values
+
+**Hint – use a method which in separate class. And call the method from main the method.**
