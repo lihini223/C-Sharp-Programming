@@ -28,3 +28,9 @@ Eg: Assume array size is 9 and it should as follows;
 ```U.Input 0``` ```U.Input 0``` ```U.Input 0``` ```U.Input 0``` ```U.Input```
 
 Now print all the values inside the array.
+
+
+## Question - 03
+
+Declare two single dimensional array with the size given by the user and find , display
+the followings;
