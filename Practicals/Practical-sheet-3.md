@@ -42,3 +42,5 @@ in third array)
 them in third array)
 - Scalar Product (Multiply values of each relative elements of an array and store
 them in third array. After placing the values in third array add all the values)
+
+**Hint – use a method which in separate class. And call the method from main the method.**
