@@ -18,7 +18,9 @@ namespace KiloMeter_to_Meter
             
             kilometer = Convert.ToDouble(Console.ReadLine());
 
-           
+            meter = kilometer * 1000;
+
+          
 
         }
     }
