@@ -16,6 +16,9 @@ namespace KiloMeter_to_Meter
 
             Console.Write("Enter Kilometers to convert:");
             
+            kilometer = Convert.ToDouble(Console.ReadLine());
+
+           
 
         }
     }
