@@ -10,6 +10,7 @@ namespace KiloMeter_to_Meter
     {
         static void Main(string[] args)
         {
+            ConvertValues convertKM = new ConvertValues();
             Console.ReadKey();
         }
     }
