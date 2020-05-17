@@ -20,7 +20,7 @@ namespace KiloMeter_to_Meter
 
             meter = kilometer * 1000;
 
-          
+            Console.WriteLine("{0} km = {1} m", kilometer, meter);
 
         }
     }
