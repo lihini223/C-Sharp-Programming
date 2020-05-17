@@ -13,7 +13,6 @@ namespace KiloMeter_to_Meter
             double kilometer;
 
             Console.WriteLine("Convert Kilometers to meters");
-
             
             Console.Write("Enter Kilometers to convert:");
             kilometer = Convert.ToDouble(Console.ReadLine());
