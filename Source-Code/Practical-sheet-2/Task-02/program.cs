@@ -18,7 +18,8 @@ namespace KiloMeter_to_Meter
             Console.Write("Enter Kilometers to convert:");
             kilometer = Convert.ToDouble(Console.ReadLine());
 
-          
+            ConvertValues convertKM = new ConvertValues();
+            convertKM.KilometerToMeter(kilometer);
            
             Console.ReadKey();
         }
