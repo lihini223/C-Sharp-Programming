@@ -14,7 +14,9 @@ namespace KiloMeter_to_Meter
 
              Console.WriteLine("Convert Kilometers to meters");
             
-           
+          
+            ConvertValues convertKM = new ConvertValues();
+            meter = convertKM.KilometerToMeter(kilometer);
 
             Console.WriteLine("{0} km = {1} m", kilometer,meter);
 
