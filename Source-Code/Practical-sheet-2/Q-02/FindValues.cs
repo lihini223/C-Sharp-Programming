@@ -16,8 +16,11 @@ namespace Circle
             return area;
         }
       
+        public double FindCircumference(double radius)
+        {
+            double circumference = 2 * radius * 3.14;
+            return circumference;
         }
-
     }
 }
 
