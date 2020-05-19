@@ -13,7 +13,9 @@ namespace Circle
         {
             double radius,A,C;
 
-         
+            Console.WriteLine("Let's find the area and circumference of a circle !");
+            Console.WriteLine("Enter Radius:");
+
         }
     }
 }
