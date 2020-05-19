@@ -28,6 +28,11 @@ namespace Calculator
             Console.WriteLine("Enter first number:");
             n1 = Convert.ToDouble(Console.ReadLine());
 
+            Console.WriteLine("Enter first number:");
+            n2 = Convert.ToDouble(Console.ReadLine());
+
+            CalculateValues values = new CalculateValues();
+
            
         }
     }
