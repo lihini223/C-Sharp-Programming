@@ -16,7 +16,14 @@ namespace Calculator
             return total; 
         }
 
- 
+        public double Substraction(double n1, double n2)
+        {
+            double sub;
+            sub = n1 - n2;
+            return sub;
+        }
+
+
     }
 }
 
