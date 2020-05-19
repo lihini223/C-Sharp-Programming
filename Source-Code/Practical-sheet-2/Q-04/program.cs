@@ -25,8 +25,10 @@ namespace Calculator
             Console.WriteLine("Enter Your Choice:");
             index = Convert.ToInt16(Console.ReadLine());
 
-           
+            Console.WriteLine("Enter first number:");
+            n1 = Convert.ToDouble(Console.ReadLine());
 
+           
         }
     }
 }
