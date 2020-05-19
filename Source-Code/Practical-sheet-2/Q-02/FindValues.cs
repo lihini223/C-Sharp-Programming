@@ -12,7 +12,11 @@ namespace Circle
         
         public double FindArea(double radius)
         {
-
+            double area = radius * radius * 3.14;
+            return area;
+        }
+      
+        }
 
     }
 }
