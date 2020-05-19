@@ -23,6 +23,13 @@ namespace Calculator
             return sub;
         }
 
+        public double Multiplication(double n1, double n2)
+        {
+            double product;
+            product = n1 * n2;
+            return product;
+        }
+
 
     }
 }
