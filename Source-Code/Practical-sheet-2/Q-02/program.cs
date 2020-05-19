@@ -18,7 +18,14 @@ namespace Circle
             
             
             radius = Convert.ToDouble(Console.ReadLine());
+            
+            
+            FindValues values = new FindValues();
 
+            A = values.FindArea(radius);
+            C = values.FindCircumference(radius);
+
+           
         }
     }
 }
