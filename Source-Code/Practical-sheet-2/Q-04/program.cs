@@ -33,7 +33,26 @@ namespace Calculator
 
             CalculateValues values = new CalculateValues();
 
-           
+            switch (index)
+            {
+                case 1:
+                    ans = values.Addition(n1,n2);
+                    break;
+                case 2:
+                    ans = values.Substraction(n1,n2);
+                    break;
+                case 3:
+                    ans = values.Multiplication(n1,n2);
+                    break;
+                case 4:
+                    ans = values.Division(n1,n2);
+                    break;
+            }
+
+            Console.WriteLine("Your Answer is : {0}", ans);
+
+            Console.ReadKey();
+
         }
     }
 }
