@@ -30,7 +30,12 @@ namespace Calculator
             return product;
         }
 
-
+        public double Division(double n1, double n2)
+        {
+            double div;
+            div = n1 / n2;
+            return div;
+        }
     }
 }
 
