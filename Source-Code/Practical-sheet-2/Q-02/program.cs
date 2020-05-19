@@ -16,16 +16,18 @@ namespace Circle
             Console.WriteLine("Let's find the area and circumference of a circle !");
             Console.WriteLine("Enter Radius:");
             
-            
             radius = Convert.ToDouble(Console.ReadLine());
-            
             
             FindValues values = new FindValues();
 
             A = values.FindArea(radius);
             C = values.FindCircumference(radius);
+            
+            Console.WriteLine("Area = {0}",A);
+            Console.WriteLine("Circumference = {0}",C);
 
-           
+            Console.ReadKey();
+ 
         }
     }
 }
