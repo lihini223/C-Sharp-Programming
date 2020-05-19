@@ -21,6 +21,12 @@ namespace Calculator
             Console.WriteLine("Enter 3 for Multiplication");
             Console.WriteLine("Enter 4 for Division");
 
+            
+            Console.WriteLine("Enter Your Choice:");
+            index = Convert.ToInt16(Console.ReadLine());
+
+           
+
         }
     }
 }
