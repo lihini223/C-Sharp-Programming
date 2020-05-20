@@ -14,7 +14,3 @@ namespace Private_Method
         }
     }
 }
-
-
-
-
