@@ -46,3 +46,8 @@ Inside the method display ```hello world```.<br/>
 
 In main class create a class object and try to access the ```sayHello( )``` method by using the class object.<br/>
 Can you access the method? Explain why?
+
+**We can't access the method it is specified as a private method. we will get an error like this,**<br/>
+
+**Error	CS0122	'PrivateMethod.SayHello()' is inaccessible due to its protection level.**
+
