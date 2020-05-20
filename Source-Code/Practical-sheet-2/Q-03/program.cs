@@ -47,6 +47,8 @@ namespace Calculator
                 case 4:
                     ans = values.Division(n1,n2);
                     break;
+                default:
+                    Console.WriteLine("Enter a valid operation number !");
             }
 
             Console.WriteLine("Your Answer is : {0}", ans);
