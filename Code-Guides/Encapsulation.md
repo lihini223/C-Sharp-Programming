@@ -19,14 +19,17 @@ namespace ConsoleApp
     class EncapClass
     {
         private int age;
+        
         public void setAge(int ageFromUser)
         {
             age = ageFromUser;
         }
+        
         public int getAge()
         {
             return age;
         }
+        
      }
 }
 ```
