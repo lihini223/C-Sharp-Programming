@@ -8,3 +8,9 @@
 - With this features Encapsulation gives ```Maintainability```, ```Flexibility``` and ```Extensibility``` to our code.
 
 # Getters and Setters
+
+- The get set accessors or modifiers mostly used for storing and retrieving value from the private field.
+- In simple word, the get method used for retrieving value from private field where set method used for storing value in private variables.
+
+
+
