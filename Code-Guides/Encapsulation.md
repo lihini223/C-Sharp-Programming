@@ -13,5 +13,20 @@
 - In simple word, the ```get method used for retrieving value``` from private field where ```set method used for storing value``` in private variables.
 
 ## Getters and Setters sample code
-
-
+```
+namespace ConsoleApp
+{
+    class EncapClass
+    {
+        private int age;
+        public void setAge(int ageFromUser)
+        {
+            age = ageFromUser;
+        }
+        public int getAge()
+        {
+            return age;
+        }
+     }
+}
+```
