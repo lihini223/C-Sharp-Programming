@@ -6,3 +6,5 @@
 - Encapsulation can be described as a protective barrier that prevents the code and data being randomly accessed by other code defined outside the class.
 - The main benefits of encapsulation is the ability to modify our implemented code without breaking the code of others who use our code.
 - With this features Encapsulation gives ```Maintainability```, ```Flexibility``` and ```Extensibility``` to our code.
+
+# Getters and Setters
