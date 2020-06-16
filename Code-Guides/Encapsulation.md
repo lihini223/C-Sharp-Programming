@@ -95,6 +95,29 @@ namespace Inheritance
 }
 
 ```
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Inheritance
+{
+    class EncapClass
+    {
+        private int age;
+
+        public void setAge(int ageIn)
+        {
+            age = ageIn;
+        }
+
+
+    }
+}
+
+```
 
 ### Exercise 02
 Is it possible to access protected variables from other classes which are not derived from the class which has the variable? Explain Your answer.
