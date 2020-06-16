@@ -67,7 +67,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance
+namespace Encapsulation
 {
     class Program
     {
@@ -102,7 +102,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance
+namespace Encapsulation
 {
     class EncapClass
     {
