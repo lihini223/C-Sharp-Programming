@@ -59,3 +59,4 @@ Hint – Take a separate class which contain get and set methods.
 - Create a console application with a encapsulated class.
 - Inside the class create a private variable to store the user's age.
 - Create getters and setters set user's age and check whether the user is eligible for voting or not.
+- From main class program should take user's age as a input.
