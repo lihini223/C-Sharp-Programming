@@ -95,3 +95,6 @@ namespace Inheritance
 }
 
 ```
+
+### Exercise 02
+Is it possible to access protected variables from other classes which are not derived from the class which has the variable? Explain Your answer.
