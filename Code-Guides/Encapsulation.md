@@ -113,7 +113,10 @@ namespace Inheritance
             age = ageIn;
         }
 
-
+        public int getAge()
+        {
+            return age;
+        }
     }
 }
 
