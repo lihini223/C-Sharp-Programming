@@ -60,3 +60,26 @@ Hint – Take a separate class which contain get and set methods.
 - Inside the class create a private variable to store the user's age.
 - Create getters and setters set user's age and check whether the user is eligible for voting or not.
 - From main class program should take user's age as a input.
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Inheritance
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int ageIn;
+            Console.WriteLine("Enter your age : ");
+            ageIn=Convert.ToInt32(Console.ReadLine());
+
+
+        }
+    }
+}
+
+```
