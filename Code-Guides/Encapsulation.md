@@ -80,6 +80,15 @@ namespace Inheritance
             EncapClass ec = new EncapClass();
             ec.setAge(ageIn);
 
+            if (ec.getAge() >= 18)
+            {
+                Console.WriteLine("You are Eligible for voting !");
+            }
+            else
+            {
+                Console.WriteLine("Sorry, You are not Eligible for voting");
+            }
+
             Console.ReadKey();
         }
     }
