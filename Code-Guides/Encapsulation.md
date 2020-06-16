@@ -77,7 +77,10 @@ namespace Inheritance
             Console.WriteLine("Enter your age : ");
             ageIn=Convert.ToInt32(Console.ReadLine());
 
+            EncapClass ec = new EncapClass();
+            ec.setAge(ageIn);
 
+            Console.ReadKey();
         }
     }
 }
