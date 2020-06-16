@@ -54,3 +54,6 @@ namespace ConsoleApp
 
 Write a complete C# code to declare two private integer variables to accept user inputs and display the sum of those two values
 Hint – Take a separate class which contain get and set methods.
+
+### Exercise 01
+- Create a console application with a encapsulated class.
