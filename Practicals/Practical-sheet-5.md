@@ -203,3 +203,25 @@ namespace Quiz02
     }
 }
 ```
+
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz02
+{
+    class Division : GetNumbers
+    {
+  
+        public double getDiv()
+        {
+            double div = (double)num1 / (double)num2;
+            return div;
+        }
+
+    }
+}
+```
