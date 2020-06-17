@@ -225,3 +225,9 @@ namespace Quiz02
     }
 }
 ```
+
+## Q-03
+Change the above code by getting user inputs from main class (Program.cs) and set values inside
+GetNumbers.cs class.
+
+## Q-04
