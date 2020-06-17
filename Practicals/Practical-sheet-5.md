@@ -98,6 +98,10 @@ namespace Quiz02
             Substraction sub = new Substraction();
             sub.GetUserInput();
             Console.WriteLine("The summation of the two numbers: " + sub.getDiff());
+           
+            Multiplication multi = new Multiplication();
+            multi.GetUserInput();
+            Console.WriteLine("The summation of the two numbers: " + multi.getMul());
 
             Console.ReadKey();
         }
