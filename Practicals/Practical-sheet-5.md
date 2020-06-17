@@ -157,3 +157,28 @@ namespace Quiz02
     }
 }
 ```
+
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz02
+{
+    class Substraction : GetNumbers
+    {
+ 
+        public int getDiff()
+        {
+            int difference = (num1- num2);
+            return difference;
+        }
+
+    }
+}
+```
+
