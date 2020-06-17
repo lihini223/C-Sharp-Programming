@@ -44,5 +44,22 @@ namespace Quiz01
 }
 ```
 
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace Quiz01
+{
+    class Dog : Animal
+    {
+        public void methodDog()
+        {
+            Console.WriteLine("I have four Legs");
+        }
+    }
+}
+```
 
