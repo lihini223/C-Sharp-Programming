@@ -1,7 +1,13 @@
 # Welcome to my Practical sheet 05
 
-Q-01
-
+## Q-01
+- Create a Console application with two added classes called “Animal” and “Dog”.
+- ‘Dog’ is the derived class (Child) of ‘Animal Class’ (Base Class).
+- Inside the ‘Animal Class’ Create a method which for ‘Dog’ Class.
+- Inside the method print “I am an Animal”.
+- Inside the “Dog Class” Create a method and display “I have four legs”.
+- Inside the main method create relevant class object and Display as follows.
+-```“I am an animal I have four legs”```.
 ```
 using System;
 using System.Collections.Generic;
