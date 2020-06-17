@@ -182,3 +182,24 @@ namespace Quiz02
 }
 ```
 
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz02
+{
+    class Summation : GetNumbers
+    {
+
+        public int getSum()
+        {
+            int sum = (num1 + num2);
+            return sum;
+        }
+
+    }
+}
+```
