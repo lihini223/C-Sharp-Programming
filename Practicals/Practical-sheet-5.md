@@ -69,3 +69,11 @@ namespace Quiz01
 }
 ```
 
+## Q-02
+- Create a Console application has six classes (including program.cs [main class]).
+- Name your classes as GetNumbers.cs, Summation.cs, Substraction.cs, Multiplication.cs & Division.cs
+- GetNumbers.cs is the base class of above-mentioned classes. Except program.cs.
+- Inside GetNumbers.cs class take user input (Two numbers ) and make them available for
+Summation.cs, Substraction.cs, Multiplication.cs & Division.cs classes. (Use inheritance).
+- Inside above classes do the respective arithmetic operations and return answers.
+- Display answers inside program.cs class.
