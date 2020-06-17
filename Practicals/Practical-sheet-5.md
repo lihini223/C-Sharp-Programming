@@ -77,3 +77,26 @@ namespace Quiz01
 Summation.cs, Substraction.cs, Multiplication.cs & Division.cs classes. (Use inheritance).
 - Inside above classes do the respective arithmetic operations and return answers.
 - Display answers inside program.cs class.
+
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz02
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Summation sum = new Summation();
+            sum.GetUserInput();
+            Console.WriteLine("The summation of the two numbers: " + sum.getSum());
+
+
+            Console.ReadKey();
+        }
+    }
+}
