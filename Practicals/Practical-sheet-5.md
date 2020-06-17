@@ -238,7 +238,5 @@ the followings;
 in third array)
 - Vector Product (Multiply values of each relative elements of an array and store
 them in third array)
-Pramudya Tilakaratne
-pramudya.h@nsbm.lk
 - Scalar Product (Multiply values of each relative elements of an array and store
 them in third array. After placing the values in third array add all the values)
