@@ -95,6 +95,9 @@ namespace Quiz02
             sum.GetUserInput();
             Console.WriteLine("The summation of the two numbers: " + sum.getSum());
 
+            Substraction sub = new Substraction();
+            sub.GetUserInput();
+            Console.WriteLine("The summation of the two numbers: " + sub.getDiff());
 
             Console.ReadKey();
         }
