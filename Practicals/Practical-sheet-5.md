@@ -136,3 +136,24 @@ namespace Quiz02
     }
 }
 ```
+
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz02
+{
+    class Multiplication : GetNumbers
+    {
+    
+        public int getMul()
+        {
+            int mul = (num1 * num2);
+            return mul;
+        }
+    }
+}
+```
