@@ -102,6 +102,10 @@ namespace Quiz02
             Multiplication multi = new Multiplication();
             multi.GetUserInput();
             Console.WriteLine("The summation of the two numbers: " + multi.getMul());
+            
+            Division div = new Division();
+            div.GetUserInput();
+            Console.WriteLine("The summation of the two numbers: " + div.getDiv());
 
             Console.ReadKey();
         }
