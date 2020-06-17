@@ -1,6 +1,8 @@
 # Welcome to my Practical sheet 05
 
 Q-01
+
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,5 +23,26 @@ namespace Quiz01
         }
     }
 }
+```
+
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz01
+{
+    class Animal
+    {
+        public void methodAnimal()
+        {
+            Console.WriteLine("I am an Animal");
+        }
+    }
+}
+```
+
 
 
