@@ -111,3 +111,28 @@ namespace Quiz02
         }
     }
 }
+```
+
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz02
+{
+    class GetNumbers
+    {
+        protected int num1, num2;
+        public void GetUserInput()
+        {
+            Console.WriteLine("Enter The First Number:");
+            num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter The Second Number:");
+            num2 = Convert.ToInt32(Console.ReadLine());
+        }
+    }
+}
+```
