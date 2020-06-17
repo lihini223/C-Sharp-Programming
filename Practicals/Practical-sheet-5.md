@@ -231,3 +231,14 @@ Change the above code by getting user inputs from main class (Program.cs) and se
 GetNumbers.cs class.
 
 ## Q-04
+Declare two single dimensional array with the size given by the user and find , display
+the followings;
+- Scalar Sum (Adding values of each element of an array)
+- Vector Sum (Adding values of each relative elements of an array and store them
+in third array)
+- Vector Product (Multiply values of each relative elements of an array and store
+them in third array)
+Pramudya Tilakaratne
+pramudya.h@nsbm.lk
+- Scalar Product (Multiply values of each relative elements of an array and store
+them in third array. After placing the values in third array add all the values)
