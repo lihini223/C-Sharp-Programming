@@ -13,3 +13,14 @@ operations.
 Inside the encapsulation class you should have two private variables and getters and setters for basic
 arithmetic operations. Then return answers for summation, subtraction, multiplication and division
 and print them on main method.
+
+### Q-03
+Create a Console application with two classes (Main class + another class).<br/>
+Inside the main class take a user input which is the size of the array.<br/>
+Pass the user inserted size as a parameter to the added class method.<br/>
+Inside the method create an integer array based on passed value from main method.<br/>
+Then take user inputs for the created array inside the separate class.<br/>
+Every user input value should be followed by value 0 inside the array.<br/>
+Eg Assume array size is 9 and it should as follows<br/>
+```U.Input 0```  ```U.Input 0``` ```U.Input 0``` ```U.Input 0``` ```U.Input```<br/>
+Now print all the values inside the array.
