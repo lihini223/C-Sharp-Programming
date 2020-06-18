@@ -7,3 +7,7 @@ Hint – Use a label to display the answer and text boxes to get user inputs.
 
 ### Q-02
 Modify the above program for all four basic arithmetic operations. Use buttons for the operations.
+
+### Q-03
+Create a windows forms application to convert given pound (lbs) value to kilogram.<br/>
+```1 lbs = 0.453592 kg```
