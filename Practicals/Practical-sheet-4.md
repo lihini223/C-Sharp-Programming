@@ -1,4 +1,4 @@
-# Practical-Sheet-04
+# Practical-Sheet-04 - Encapsulation
 ### Q-01
 Create a class called “Employee” which has 3 private variables (empID, empName, empDesignation)
 and create getters and setters for each field. Please note that this has no main method since this is
