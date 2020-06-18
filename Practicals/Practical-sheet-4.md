@@ -6,3 +6,10 @@ just an added class to the console application. Inside the main class take user 
 employee name. employee designation and pass values to added class and set values.
 From getters return relevant values and print the following message from main method.<br/>
 “Hello – ```Employee name``` – Your Employee ID is – ```EMPID```—and You are a – ```EmpDesignation``` --.
+
+### Q-02
+Create a Console application program which contain an encapsulation class for four basic arithmetic
+operations.
+Inside the encapsulation class you should have two private variables and getters and setters for basic
+arithmetic operations. Then return answers for summation, subtraction, multiplication and division
+and print them on main method.
