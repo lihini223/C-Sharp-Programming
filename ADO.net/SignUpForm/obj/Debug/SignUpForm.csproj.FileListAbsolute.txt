@@ -1,0 +1,14 @@
+E:\C# Projects\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+E:\C# Projects\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+E:\C# Projects\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csprojAssemblyReference.cache
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Delete.resources
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Form2.resources
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Update.resources
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Home.resources
+E:\C# Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.SignUp.resources
