@@ -1,0 +1,14 @@
+E:\CRUD APP\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.exe.config
+E:\CRUD APP\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.exe
+E:\CRUD APP\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.pdb
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csprojAssemblyReference.cache
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Properties.Resources.resources
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.GenerateResource.cache
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.CoreCompileInputs.cache
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.exe
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.pdb
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.SignUp.resources
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Home.resources
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.ShowData.resources
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Delete.resources
+E:\CRUD APP\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Update.resources
