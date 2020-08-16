@@ -62,6 +62,10 @@ namespace Q2
         {
             return EmpID;
         }
+         public void setempname(string name)
+        {
+            EmpName = name;
+        }
 
        
     }
