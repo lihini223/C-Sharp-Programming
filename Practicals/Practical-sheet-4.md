@@ -23,6 +23,10 @@ namespace Q2
             int id = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter your Name:");
             string name = Console.ReadLine();
+            Console.WriteLine("Enter your Designation:");
+            string designation = Console.ReadLine();
+
+           
            
         }
     }
