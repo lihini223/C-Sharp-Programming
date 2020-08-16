@@ -28,7 +28,12 @@ namespace Q2
 
             encap en = new encap();
             en.setempid(id);
+            en.setempname(name);
+            en.setempdesignation(designation);
 
+            Console.WriteLine("Hello " + en.getempname() + " ,Your employee ID is " + en.getempid() + " , And you are a " + en.getempdesignation());
+
+            Console.ReadLine();
         }
     }
 }
