@@ -19,6 +19,8 @@ namespace Q2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter your ID:");
+            int id = int.Parse(Console.ReadLine());
            
         }
     }
