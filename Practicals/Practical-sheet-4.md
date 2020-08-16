@@ -21,6 +21,8 @@ namespace Q2
         {
             Console.WriteLine("Enter your ID:");
             int id = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter your Name:");
+            string name = Console.ReadLine();
            
         }
     }
