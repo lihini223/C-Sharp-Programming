@@ -76,7 +76,10 @@ namespace Q2
         {
             EmpDesignation = designation;
         }
-
+        public string getempdesignation()
+        {
+            return EmpDesignation;
+        }
     }
 }
 
