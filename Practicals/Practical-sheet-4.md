@@ -6,6 +6,24 @@ just an added class to the console application. Inside the main class take user 
 employee name. employee designation and pass values to added class and set values.
 From getters return relevant values and print the following message from main method.<br/>
 “Hello – ```Employee name``` – Your Employee ID is – ```EMPID```—and You are a – ```EmpDesignation``` --.
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           
+        }
+    }
+}
+```
 
 ### Q-02
 Create a Console application program which contain an encapsulation class for four basic arithmetic
