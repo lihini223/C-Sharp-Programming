@@ -67,7 +67,12 @@ namespace Q2
             EmpName = name;
         }
 
-       
+        public string getempname()
+        {
+            return EmpName;
+        }
+
+
     }
 }
 
