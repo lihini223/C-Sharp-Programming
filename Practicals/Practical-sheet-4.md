@@ -54,7 +54,11 @@ namespace Q2
         private string EmpName;
         private string EmpDesignation;
 
-
+        public void setempid(int id)
+        {
+            EmpID = id;
+        }
+       
     }
 }
 
