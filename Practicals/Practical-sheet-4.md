@@ -58,6 +58,11 @@ namespace Q2
         {
             EmpID = id;
         }
+        public int getempid()
+        {
+            return EmpID;
+        }
+
        
     }
 }
