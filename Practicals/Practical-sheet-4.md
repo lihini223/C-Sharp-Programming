@@ -39,6 +39,26 @@ namespace Q2
 }
 ```
 
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q2
+{
+    class encap
+    {
+        private int EmpID;
+        private string EmpName;
+        private string EmpDesignation;
+
+
+    }
+}
+
+```
 ### Q-02
 Create a Console application program which contain an encapsulation class for four basic arithmetic
 operations.
