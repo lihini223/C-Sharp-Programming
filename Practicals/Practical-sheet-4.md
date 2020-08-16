@@ -26,8 +26,9 @@ namespace Q2
             Console.WriteLine("Enter your Designation:");
             string designation = Console.ReadLine();
 
-           
-           
+            encap en = new encap();
+            en.setempid(id);
+
         }
     }
 }
