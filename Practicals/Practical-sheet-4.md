@@ -72,6 +72,10 @@ namespace Q2
             return EmpName;
         }
 
+        public void setempdesignation(string designation)
+        {
+            EmpDesignation = designation;
+        }
 
     }
 }
